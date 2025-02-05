@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/72b26fc6-b43d-447f-9140-67952f6e7287)
+
 Sample Insights
 
       • Women are more likely to buy compared to men (~65%)
@@ -8,4 +10,4 @@ Final Conclusion to improve Bala store sales:
 
       • Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
 
-![image](https://github.com/user-attachments/assets/72b26fc6-b43d-447f-9140-67952f6e7287)
+
